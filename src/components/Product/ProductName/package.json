@@ -1,6 +1,0 @@
-{
-    "name": "ProductName",
-    "version": "0.1.0",
-    "private": true,
-    "main": "./ProductName.jsx"
-}
