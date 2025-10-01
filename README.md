@@ -1,4 +1,4 @@
-# AI/ML Projects by Senior Data Scientist
+#  Senior Data Scientist
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12-orange)](https://pytorch.org/)
